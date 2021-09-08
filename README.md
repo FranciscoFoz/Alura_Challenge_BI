@@ -30,6 +30,7 @@
   <p>O primeiro painel refere-se a uma visão geral do mês corrente com os principais indicadores do setor. Nos demais paineis utilizou-se os dados de todo o período.</p> 
   
 Visão Geral
+
 ![image](https://user-images.githubusercontent.com/64700794/132595139-3f18a29e-dd34-444f-9ed1-979b89d653ab.png)
   
 Visão Operacional
