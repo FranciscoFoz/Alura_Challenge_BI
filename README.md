@@ -23,12 +23,14 @@
    <p> O relatório desenvolvido pode ser acessado <a href="https://app.powerbi.com/reportEmbed?reportId=1385f592-943b-4002-8520-336c1bf43d6f&autoAuth=true&ctid=b7845ad6-74cd-4782-aea9-57359643b87b&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWJyYXppbC1zb3V0aC1iLXByaW1hcnktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D">aqui</a></p>
   
  <p>Foi elaborado um menu para o relatório</p> 
+ 
  Menu
  ![image](https://user-images.githubusercontent.com/64700794/132541496-23915bf5-e8cc-4867-aacc-72e638bbc825.png)
   
   <p>O primeiro painel refere-se a uma visão geral do mês corrente com os principais indicadores do setor. Nos demais paineis utilizou-se os dados de todo o período.</p> 
+  
 Visão Geral
- ![image](https://user-images.githubusercontent.com/64700794/132595139-3f18a29e-dd34-444f-9ed1-979b89d653ab.png)
+![image](https://user-images.githubusercontent.com/64700794/132595139-3f18a29e-dd34-444f-9ed1-979b89d653ab.png)
   
 Visão Operacional
 ![image](https://user-images.githubusercontent.com/64700794/132595275-ed2d792d-88ee-4594-9d7a-c16f4a29a5df.png)
