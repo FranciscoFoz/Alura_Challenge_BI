@@ -35,5 +35,5 @@ Quando nos contou isso, analisamos que para auxiliar nesse desafio precisaremos 
 
    
    
-<p> O relatório desenvolvido pode ser acessado <a href="https://app.powerbi.com/reportEmbed?reportId=4d4b3488-c90a-4575-b730-1bb8e7eb5ca7&autoAuth=true&ctid=712f9db4-6407-4075-846a-52d00afd93ff&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWJyYXppbC1zb3V0aC1iLXByaW1hcnktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D">aqui</a></p>
+<p> O relatório desenvolvido pode ser acessado <a href=https://app.powerbi.com/view?r=eyJrIjoiMGZiZDVlYmEtMWEzMi00MzNjLTg5MGUtNTZiYmI5NjFhYTIwIiwidCI6IjcxMmY5ZGI0LTY0MDctNDA3NS04NDZhLTUyZDAwYWZkOTNmZiJ9>aqui</a></p>
   
